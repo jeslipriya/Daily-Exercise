@@ -22,7 +22,7 @@ public class Employee {
 
         Employee emp = new Employee(101, 20000);
 
-        emp.setSalary(25000);
-        emp.setSalary(200);
+        emp.setSalary(25000); 
+        emp.setSalary(200);    
     }
 }
